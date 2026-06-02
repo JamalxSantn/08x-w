@@ -1,0 +1,1 @@
+var dll_url = "https://raw.githubusercontent.com/JamalxSantn/08x-w/main/rayx2.dll";
